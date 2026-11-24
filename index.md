@@ -6,7 +6,7 @@ date: 2025-07-21
 thumbnail: images/forest.jpg
 summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
 header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
-header-title: The Forest
+header-title: Two Stories Bookstore
 header-eyebrow: ScrollStory Demo
 header-divider: ✦ ✦ ✦
 header-subtitle: every component, one essay
